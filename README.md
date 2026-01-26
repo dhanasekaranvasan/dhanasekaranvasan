@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Dhanasekaran
 
-### Full Stack Web Developer (React) · India 🇮🇳  
+### Full Stack Developer (Spring Boot, React) · India 🇮🇳  
 I build scalable, high-performance web applications with clean UI and solid backend architecture.
 
 ---
@@ -10,28 +10,24 @@ I build scalable, high-performance web applications with clean UI and solid back
 **Frontend**
 - React, Next.js, Redux
 - JavaScript, TypeScript
-- Tailwind CSS, Sass, Bootstrap
+- Tailwind CSS
 
 **Backend**
-- Node.js, Express
+- Spring Boot, Node.js, Express
 - GraphQL, REST APIs
 
 **Databases**
 - MongoDB, PostgreSQL, MySQL
 
 **DevOps & Tools**
-- Docker, Git, Postman
+- Docker, Git, Postman, AWS, Jenkins
 - Firebase, GCP
 - Jest
 
 ---
 
 ### 📌 Featured Projects
-- 🚀 **Project Name** – Short one-line description  
-  🔗 https://github.com/username/project
-
-- 🔐 **Project Name** – Short one-line description  
-  🔗 https://github.com/username/project
+- coming soon
 
 ---
 
