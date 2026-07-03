@@ -13,16 +13,15 @@ I build scalable, high-performance web applications with clean UI and solid back
 - Tailwind CSS
 
 **Backend**
-- Spring Boot, Node.js, Express
-- GraphQL, REST APIs
+- Spring Boot
+- REST APIs
 
 **Databases**
-- MongoDB, PostgreSQL, MySQL
+- PostgreSQL, MySQL
 
 **DevOps & Tools**
-- Docker, Git, Postman, AWS, Jenkins
-- Firebase, GCP
-- Jest
+- Docker, Git, AWS, Jenkins
+- VS code, Postman
 
 ---
 
